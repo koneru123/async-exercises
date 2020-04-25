@@ -2,13 +2,6 @@ const getNumLessThanTen = require('./getNumLessThan.js');
 const waitOneSecond = require('./waitOneSecond');
 const writeToFile = require('./writeToFile');
 
-
-
-
-waitOneSecond((error, success) => {
- 
-})
-
 /*
 get a random number less than 10,
 wait three seconds
